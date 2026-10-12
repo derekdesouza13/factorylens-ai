@@ -1,3 +1,6 @@
+# Generated reports and visualizations
+reports/
+
 # Python
 __pycache__/
 *.py[cod]
