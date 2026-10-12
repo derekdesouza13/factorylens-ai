@@ -9,3 +9,5 @@ faker
 pyyaml
 jupyter
 pytest
+shap
+mlflow
